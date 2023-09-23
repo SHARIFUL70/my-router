@@ -3,7 +3,7 @@ import PhonesCard from "../PhonesAll/PhonesCard";
 
 
 const Phones = ({data}) => {
-    console.log(data)
+    // console.log(data)
     return (
         <div className=" mt-3">
             <h1 className="text-2xl text-center">All Catagoriy Products</h1>
